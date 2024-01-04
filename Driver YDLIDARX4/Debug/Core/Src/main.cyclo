@@ -1,0 +1,14 @@
+../Core/Src/main.c:74:5:__io_putchar	1
+../Core/Src/main.c:79:5:uart_transmit	1
+../Core/Src/main.c:83:5:uart_it_transmit	1
+../Core/Src/main.c:87:5:uart_dma_transmit	1
+../Core/Src/main.c:91:5:uart_poll_receive	1
+../Core/Src/main.c:95:5:uart_it_receive	1
+../Core/Src/main.c:99:5:uart_dma_receive	1
+../Core/Src/main.c:104:6:TaskLIDAR	24
+../Core/Src/main.c:190:5:main	2
+../Core/Src/main.c:273:6:SystemClock_Config	3
+../Core/Src/main.c:317:6:HAL_UART_RxHalfCpltCallback	2
+../Core/Src/main.c:324:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:340:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:357:6:Error_Handler	1
